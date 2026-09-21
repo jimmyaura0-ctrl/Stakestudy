@@ -1,0 +1,6 @@
+{
+  "name": "Study Notes Hub",
+  "description": "Upload, organize, preview, and study academic notes, lecture slides, and cheat sheets with smart summaries and flashcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
